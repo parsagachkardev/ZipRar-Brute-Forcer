@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipRar Brute Forces", "ZipRar Brute Forces\ZipRar Brute Forces.csproj", "{1174EF46-A54A-44CF-BB89-59A7A4D95469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipRar PW BruteForce", "ZipRar PW BruteForce\ZipRar PW BruteForce.csproj", "{3F1EAF80-9D71-4B9E-8622-04E9D932C800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1174EF46-A54A-44CF-BB89-59A7A4D95469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1174EF46-A54A-44CF-BB89-59A7A4D95469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1174EF46-A54A-44CF-BB89-59A7A4D95469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1174EF46-A54A-44CF-BB89-59A7A4D95469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1174EF46-A54A-44CF-BB89-59A7A4D95469}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3F1EAF80-9D71-4B9E-8622-04E9D932C800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1EAF80-9D71-4B9E-8622-04E9D932C800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1EAF80-9D71-4B9E-8622-04E9D932C800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1EAF80-9D71-4B9E-8622-04E9D932C800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

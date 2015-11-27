@@ -1,0 +1,7 @@
+C:\Users\Parsa Gachkar\documents\visual studio 2015\Projects\ZipRar Brute Forces\ZipRar Brute Forces\bin\Debug\ZipRar Brute Forces.dll
+C:\Users\Parsa Gachkar\documents\visual studio 2015\Projects\ZipRar Brute Forces\ZipRar Brute Forces\bin\Debug\ZipRar Brute Forces.pdb
+C:\Users\Parsa Gachkar\documents\visual studio 2015\Projects\ZipRar Brute Forces\ZipRar Brute Forces\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Parsa Gachkar\documents\visual studio 2015\Projects\ZipRar Brute Forces\ZipRar Brute Forces\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Parsa Gachkar\documents\visual studio 2015\Projects\ZipRar Brute Forces\ZipRar Brute Forces\obj\Debug\ZipRar Brute Forces.csprojResolveAssemblyReference.cache
+C:\Users\Parsa Gachkar\documents\visual studio 2015\Projects\ZipRar Brute Forces\ZipRar Brute Forces\obj\Debug\ZipRar Brute Forces.dll
+C:\Users\Parsa Gachkar\documents\visual studio 2015\Projects\ZipRar Brute Forces\ZipRar Brute Forces\obj\Debug\ZipRar Brute Forces.pdb
